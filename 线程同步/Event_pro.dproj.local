@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/13 14:20:55.916.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\多线程_事件\Event.pas</Transaction>
+    <Transaction>2017/12/13 14:20:55.917.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\2016\Desktop\项目\多线程_事件\Event.dfm</Transaction>
+    <Transaction>2017/12/13 14:21:44.022.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\多线程_事件\Thread1.pas</Transaction>
+    <Transaction>2017/12/13 14:21:53.142.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\多线程_事件\Thread2.pas</Transaction>
+    <Transaction>2017/12/13 14:22:55.604.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\多线程_事件\Event_pro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
