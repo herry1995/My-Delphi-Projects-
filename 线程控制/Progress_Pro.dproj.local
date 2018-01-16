@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/13 17:46:14.606.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\进度条\Progress_Pro.pas</Transaction>
+    <Transaction>2017/12/13 17:46:14.606.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\2016\Desktop\项目\进度条\Progress_Pro.dfm</Transaction>
+    <Transaction>2017/12/13 17:46:41.622.pas,C:\Users\2016\Desktop\项目\进度条\Progress_Pro.pas=C:\Users\2016\Desktop\项目\进度条\Progress.pas</Transaction>
+    <Transaction>2017/12/13 17:46:41.622.dfm,C:\Users\2016\Desktop\项目\进度条\Progress_Pro.dfm=C:\Users\2016\Desktop\项目\进度条\Progress.dfm</Transaction>
+    <Transaction>2017/12/13 17:47:15.703.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\进度条\Thread1.pas</Transaction>
+    <Transaction>2017/12/13 17:47:33.153.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\进度条\Progress_Pro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
