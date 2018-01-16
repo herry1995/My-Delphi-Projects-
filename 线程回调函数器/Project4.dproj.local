@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/03 16:59:41.571.dproj,C:\Users\xiao\Documents\RAD Studio\Projects\Project4.dproj=C:\Users\xiao\Documents\RAD Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2017/11/03 17:12:08.003.dproj,C:\Users\xiao\Documents\RAD Studio\Projects\Project4.dproj=C:\Users\xiao\Desktop\线程回调显示数据\Project4.dproj</Transaction>
+    <Transaction>2017/11/03 17:12:23.050.pas,C:\Users\xiao\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\xiao\Desktop\线程回调显示数据\Unit4.pas</Transaction>
+    <Transaction>2017/11/03 17:12:23.050.dfm,C:\Users\xiao\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\xiao\Desktop\线程回调显示数据\Unit4.dfm</Transaction>
+    <Transaction>2017/11/03 17:12:32.468.pas,C:\Users\xiao\Documents\RAD Studio\Projects\Unit5.pas=C:\Users\xiao\Desktop\线程回调显示数据\Unit5.pas</Transaction>
+  </Transactions>
+</BorlandProject>

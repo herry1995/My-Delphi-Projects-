@@ -1,0 +1,60 @@
+﻿	<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+		<PropertyGroup>
+			<ProjectGuid>{63F79B2B-5153-40AC-8907-37F3F07AA538}</ProjectGuid>
+		</PropertyGroup>
+		<ItemGroup>
+			<Projects Include="CriticalSection_pro.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\多线程_互斥\Mutex_Pro.dproj">
+				<Dependencies/>
+			</Projects>
+			<Projects Include="..\多线程_事件\Event_pro.dproj">
+				<Dependencies/>
+			</Projects>
+		</ItemGroup>
+		<ProjectExtensions>
+			<Borland.Personality>Default.Personality.12</Borland.Personality>
+			<Borland.ProjectType/>
+			<BorlandProject>
+				<Default.Personality/>
+			</BorlandProject>
+		</ProjectExtensions>
+		<Target Name="CriticalSection_pro">
+			<MSBuild Projects="CriticalSection_pro.dproj"/>
+		</Target>
+		<Target Name="CriticalSection_pro:Clean">
+			<MSBuild Targets="Clean" Projects="CriticalSection_pro.dproj"/>
+		</Target>
+		<Target Name="CriticalSection_pro:Make">
+			<MSBuild Targets="Make" Projects="CriticalSection_pro.dproj"/>
+		</Target>
+		<Target Name="Mutex_Pro">
+			<MSBuild Projects="..\多线程_互斥\Mutex_Pro.dproj"/>
+		</Target>
+		<Target Name="Mutex_Pro:Clean">
+			<MSBuild Targets="Clean" Projects="..\多线程_互斥\Mutex_Pro.dproj"/>
+		</Target>
+		<Target Name="Mutex_Pro:Make">
+			<MSBuild Targets="Make" Projects="..\多线程_互斥\Mutex_Pro.dproj"/>
+		</Target>
+		<Target Name="Event_pro">
+			<MSBuild Projects="..\多线程_事件\Event_pro.dproj"/>
+		</Target>
+		<Target Name="Event_pro:Clean">
+			<MSBuild Targets="Clean" Projects="..\多线程_事件\Event_pro.dproj"/>
+		</Target>
+		<Target Name="Event_pro:Make">
+			<MSBuild Targets="Make" Projects="..\多线程_事件\Event_pro.dproj"/>
+		</Target>
+		<Target Name="Build">
+			<CallTarget Targets="CriticalSection_pro;Mutex_Pro;Event_pro"/>
+		</Target>
+		<Target Name="Clean">
+			<CallTarget Targets="CriticalSection_pro:Clean;Mutex_Pro:Clean;Event_pro:Clean"/>
+		</Target>
+		<Target Name="Make">
+			<CallTarget Targets="CriticalSection_pro:Make;Mutex_Pro:Make;Event_pro:Make"/>
+		</Target>
+		<Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+	</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/13 09:24:14.919.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\多线程_临界区\CriticalSection.pas</Transaction>
+    <Transaction>2017/12/13 09:24:14.919.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\2016\Desktop\项目\多线程_临界区\CriticalSection.dfm</Transaction>
+    <Transaction>2017/12/13 09:37:32.968.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\多线程_临界区\MyThread.pas</Transaction>
+    <Transaction>2017/12/13 10:40:50.278.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\多线程_临界区\Project2.dproj</Transaction>
+    <Transaction>2017/12/13 12:46:54.942.dproj,C:\Users\2016\Desktop\项目\多线程_临界区\Project2.dproj=C:\Users\2016\Desktop\项目\多线程_临界区\CS.dproj</Transaction>
+    <Transaction>2017/12/13 16:36:09.686.dproj,C:\Users\2016\Desktop\项目\多线程_临界区\CS.dproj=C:\Users\2016\Desktop\项目\多线程_临界区\CriticalSection_pro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

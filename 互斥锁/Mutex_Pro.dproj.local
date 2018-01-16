@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/13 15:57:00.641.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\多线程_互斥\Mutex.pas</Transaction>
+    <Transaction>2017/12/13 15:57:00.641.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\2016\Desktop\项目\多线程_互斥\Mutex.dfm</Transaction>
+    <Transaction>2017/12/13 15:57:53.972.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit3.pas=C:\Users\2016\Desktop\项目\多线程_互斥\Thread1.pas</Transaction>
+    <Transaction>2017/12/13 15:58:05.404.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\多线程_互斥\Thread2.pas</Transaction>
+    <Transaction>2017/12/13 15:58:22.950.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\多线程_互斥\Mutex_Pro.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

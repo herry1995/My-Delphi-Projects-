@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/19 10:34:55.648.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\寻找空文件夹\FindEmptyDir.pas</Transaction>
+    <Transaction>2017/12/19 10:34:55.648.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\2016\Desktop\项目\寻找空文件夹\FindEmptyDir.dfm</Transaction>
+    <Transaction>2017/12/19 10:42:29.422.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\寻找空文件夹\MyThread.pas</Transaction>
+    <Transaction>2017/12/19 13:31:34.259.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\寻找空文件夹\Project.dproj</Transaction>
+    <Transaction>2017/12/19 17:17:55.419.pas,C:\Users\2016\Desktop\项目\寻找空文件夹\MyThread.pas=C:\Users\2016\Desktop\项目\寻找空文件夹\Thread1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

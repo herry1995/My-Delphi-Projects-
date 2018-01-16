@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/20 16:39:29.860.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\搜索空文件夹\SearchFloder.pas</Transaction>
+    <Transaction>2017/12/20 16:39:29.860.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.dfm=C:\Users\2016\Desktop\项目\搜索空文件夹\SearchFloder.dfm</Transaction>
+    <Transaction>2017/12/20 16:40:18.903.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit4.pas=C:\Users\2016\Desktop\项目\搜索空文件夹\MyThread.pas</Transaction>
+    <Transaction>2017/12/20 18:06:31.050.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\2016\Desktop\项目\搜索空文件夹\Project2.dproj</Transaction>
+    <Transaction>2017/12/22 13:01:04.233.dproj,C:\Users\2016\Desktop\项目\搜索空文件夹\Project2.dproj=C:\Users\2016\Desktop\项目\搜索空文件夹\ScanEmptyFolderTool.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

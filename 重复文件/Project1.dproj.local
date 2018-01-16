@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/12/26 15:13:49.734.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\2016\Desktop\项目\搜索重复文件\RepeatFiles.pas</Transaction>
+    <Transaction>2017/12/26 15:13:49.734.dfm,C:\Users\2016\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\2016\Desktop\项目\搜索重复文件\RepeatFiles.dfm</Transaction>
+    <Transaction>2017/12/26 15:14:36.517.pas,C:\Users\2016\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\2016\Desktop\项目\搜索重复文件\Uni.pas</Transaction>
+    <Transaction>2017/12/26 15:15:00.301.pas,C:\Users\2016\Desktop\项目\搜索重复文件\Uni.pas=C:\Users\2016\Desktop\项目\搜索重复文件\MyThread.pas</Transaction>
+    <Transaction>2017/12/26 15:52:06.484.dproj,C:\Users\2016\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\2016\Desktop\项目\搜索重复文件\Project1.dproj</Transaction>
+    <Transaction>2018/01/05 11:26:38.963.pas,C:\Users\2016\Desktop\项目\搜索重复文件\Unit1.pas=C:\Users\2016\Desktop\项目\搜索重复文件\wdRunOnce.pas</Transaction>
+  </Transactions>
+</BorlandProject>
